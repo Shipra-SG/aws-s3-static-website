@@ -36,7 +36,7 @@ This is part of my **AWS + DevOps learning roadmap** to master cloud fundamental
 User → CloudFront CDN → S3 Static Website → Objects → Response Cached Globally
 ```
 
-![Architecture](architecture/architecture-diagram.png)
+![Architecture](architecture/architecture.png.png)
 
 ---
 
