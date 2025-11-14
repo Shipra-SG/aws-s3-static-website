@@ -88,7 +88,7 @@ aws-s3-static-website/
 - Viewer Protocol: Redirect HTTP → HTTPS  
 - Copy distribution URL:  
   ```
-  https://dxxxxxxx.cloudfront.net
+  https://d23apl10l24y6s.cloudfront.net/
   ```
 
 ### **4️⃣ Cache Invalidation**
