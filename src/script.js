@@ -1,3 +1,1 @@
-function showMessage() {
-    document.getElementById("msg").innerText = "Hello from AWS S3!";
-}
+console.log("Shipra's Website Loaded Successfully!");
