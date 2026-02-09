@@ -36,7 +36,7 @@ This is part of my **AWS + DevOps learning roadmap** to master cloud fundamental
 User → CloudFront CDN → S3 Static Website → Objects → Response Cached Globally
 ```
 
-![Architecture](architecture/architecture.png.png)
+![Architecture](aws-s3-cloudfront/architecture/architecture.png.png)
 
 ---
 
@@ -103,9 +103,9 @@ aws-s3-static-website/
 
 | Step | Screenshot |
 |------|------------|
-| S3 Bucket Settings | ![](screenshots/s3-bucket-settings.png) |
-| CloudFront Distribution | ![](screenshots/cloudfront-distribution.png) |
-| Live Website | ![](screenshots/website-working.png) |
+| S3 Bucket Settings | ![](aws-s3-cloudfront/screenshots/s3-bucket-settings.png) |
+| CloudFront Distribution | ![](aws-s3-cloudfront/screenshots/cloudfront-distribution.png) |
+| Live Website | ![](aws-s3-cloudfront/screenshots/website-working.png) |
 
 ---
 
